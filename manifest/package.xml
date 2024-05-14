@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Cart_Item__c</members>
+		<members>Cart__c</members>
+		<members>Food__c</members>
+		<members>OrderH__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>Updating_Cart_item_price</members>
+		<name>Flow</name>
+	</types>
+	<version>58.0</version>
+</Package>
